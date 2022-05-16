@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Link to= '/home'> Home </Link>
       <Link style={{margin:"0px 20px"}} to= '/rq-query'> RQ Query </Link>
-      <Link to= '/supper-hero'> Supper Hero </Link>
+      <Link to= '/supper-hero'>Traditional  Supper Hero </Link>
 
        <Routes>
          <Route path ='/home' element={<HomePage></HomePage>}></Route>
