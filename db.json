@@ -1,0 +1,22 @@
+{
+    "supperHero":[
+        {
+            "id":1,
+            "name":"batman",
+            "alterEgo": "clark ken"
+        },
+        {
+            "id":2,
+            "name":"superman",
+            "alterEgo": "jjj"
+        },
+        {
+            "id":3,
+            "name":"heroman",
+            "alterEgo": "ttt ken"
+        }
+
+
+
+    ]
+}
